@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-09-05 at 10 22 09_b50a82c8](https://github.com/user-attachments/assets/c869b6cb-d683-45f4-9411-08de5a1fab8c)
+
 # 💫 About Me:
 🔭 Internship experience at Accenture, where I worked on a Salesforce project for a UK Water Utility.<br>💻 I am a fullstack developer passionate about building structured and scalable web applications.<br>🧠 I have a strong foundation in Python, C++, DSA, and System Design.<br>📫 Feel free to reach out to me at: aakash.c.me@gmail.com<br>⚡ Fun Fact: I use Git as a consistency tracker for my coding habits and progress.<br>I'm love exploring new technologies and currently diving deep in System Design.<br>
 
