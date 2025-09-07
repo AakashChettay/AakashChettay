@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Internship experience at Accenture, where I worked on a Salesforce project for a UK Water Utility.<br>💻 I am a fullstack developer passionate about building structured and scalable web applications.<br>🧠 I have a strong foundation in Python, C++, DSA, and System Design.<br>📫 Feel free to reach out to me at: aakash.c.me@gmail.com<br>⚡ Fun Fact: I use Git as a consistency tracker for my coding habits and progress.<br>I'm love exploring new technologies and currently diving deep in System Design.<br>
+🔭 Internship experience at Accenture, where I worked on a Salesforce project for a UK Water Utility.<br>💪 Right now, working on System Design(LLD) and DSA.<br>💻 I am a fullstack developer passionate about building structured and scalable web applications.<br>🧠 I have a strong foundation in Python, C++, DSA, and System Design.<br>📫 Feel free to reach out to me at: aakash.c.me@gmail.com<br>⚡ Fun Fact: I use Git as a consistency tracker for my coding habits and progress.<br>I'm love exploring new technologies and currently diving deep in System Design.<br>
 
 
 ## 🌐 Socials:
